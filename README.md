@@ -5,7 +5,7 @@
 - Goals
 - 1 . Perform a better mindset
 - 2. Understanding how data analytics   can helpful of international , muiltinational , local businesses inside the U.S and world wide
-  3. Understanding the similarities and differences between Data Analytics & Business Analytics
+- 3. Understanding the similarities and differences between Data Analytics & Business Analytics
 
 [Why Python Is Essential for Data Analysis and Data Science] (https://www.simplilearn.com/why-python-is-essential-for-data-analysis-article)
 
