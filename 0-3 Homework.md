@@ -3,6 +3,7 @@ What is an algorithm?
 Is a Sequence of unambiguous instructions for solving a problem . 
 
 Variable names may not start with certain characters - name two.
+A user can not start with a '!' or '/'
 
 What is a Semantic error?
 
